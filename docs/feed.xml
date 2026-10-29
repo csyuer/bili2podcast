@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:57:10 GMT</lastBuildDate>
-<pubDate>Sat, 05 Nov 2022 12:05:00 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 09:59:56 GMT</lastBuildDate>
+<pubDate>Sat, 12 Nov 2022 11:37:27 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,41 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>不为人知！水浒传多出来的20回，讲了什么？《水浒传》P46</title>
+<description><![CDATA[大结局前夕！
+水浒传多出来的20回，讲了什么？
+
+今天讲的是《水浒传》「120回本」
+第90回到第110回——田虎、王庆篇！
+我们将带大家完整简单地了解一下
+「田王篇」的人物关系和精彩剧情
+之后，就直接开启《水浒传》的大结局——方腊篇！
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[大结局前夕！
+水浒传多出来的20回，讲了什么？
+
+今天讲的是《水浒传》「120回本」
+第90回到第110回——田虎、王庆篇！
+我们将带大家完整简单地了解一下
+「田王篇」的人物关系和精彩剧情
+之后，就直接开启《水浒传》的大结局——方腊篇！
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV1M14y1W7WR</link>
+<guid isPermaLink="false">bili2podcast:eaa9b6b898c3</guid>
+<pubDate>Sat, 12 Nov 2022 11:37:27 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-eaa9b6b898c3/eaa9b6b898c3.m4a" length="119941361" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>50:07</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>46</itunes:episode>
+</item>
 <item>
 <title>决战！宋江成民族英雄！朝廷却无封赏？《水浒传》P45</title>
 <description><![CDATA[宋辽大决战！
