@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:54:25 GMT</lastBuildDate>
-<pubDate>Sat, 29 Oct 2022 13:51:47 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 09:57:10 GMT</lastBuildDate>
+<pubDate>Sat, 05 Nov 2022 12:05:00 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,37 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>决战！宋江成民族英雄！朝廷却无封赏？《水浒传》P45</title>
+<description><![CDATA[宋辽大决战！
+九天玄女再登场！
+
+今天讲的是《水浒传》
+第八十八回「颜统军阵列混天象，宋公明梦授玄女法」
+第八十九回「宋公明破阵成功，宿太尉颁恩降诏」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[宋辽大决战！
+九天玄女再登场！
+
+今天讲的是《水浒传》
+第八十八回「颜统军阵列混天象，宋公明梦授玄女法」
+第八十九回「宋公明破阵成功，宿太尉颁恩降诏」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV1XP411w7vQ</link>
+<guid isPermaLink="false">bili2podcast:ec64e5e754f1</guid>
+<pubDate>Sat, 05 Nov 2022 12:05:00 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-ec64e5e754f1/ec64e5e754f1.m4a" length="116158560" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>48:32</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>45</itunes:episode>
+</item>
 <item>
 <title>内讧？卢俊义大骂宋江「黑矮无能」！《水浒传》P44</title>
 <description><![CDATA[梁山内讧？
