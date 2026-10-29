@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:10:54 GMT</lastBuildDate>
-<pubDate>Sat, 20 Aug 2022 14:45:47 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 09:13:59 GMT</lastBuildDate>
+<pubDate>Sat, 27 Aug 2022 14:05:42 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,39 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>进城两天，李师师加重了我的精神内耗！《水浒传》P36</title>
+<description><![CDATA[东京第一美女李师师上线！
+宋徽宗为她钻地道
+宋公明与她聊理想
+
+今天讲的是《水浒传》
+第七十二回「柴进簪花入禁院，李逵元夜闹东京」
+第七十三回「黑旋风乔捉鬼，梁山泊双献头」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[东京第一美女李师师上线！
+宋徽宗为她钻地道
+宋公明与她聊理想
+
+今天讲的是《水浒传》
+第七十二回「柴进簪花入禁院，李逵元夜闹东京」
+第七十三回「黑旋风乔捉鬼，梁山泊双献头」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV1Qa411G77X</link>
+<guid isPermaLink="false">bili2podcast:eba557825acb</guid>
+<pubDate>Sat, 27 Aug 2022 14:05:42 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-eba557825acb/eba557825acb.m4a" length="129030999" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>53:54</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>36</itunes:episode>
+</item>
 <item>
 <title>总算来了！108好汉齐！梁山大聚义！《水浒传》P35</title>
 <description><![CDATA[「大聚义」终于来了！
