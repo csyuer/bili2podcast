@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:37:41 GMT</lastBuildDate>
-<pubDate>Sat, 15 Oct 2022 13:22:18 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 09:39:47 GMT</lastBuildDate>
+<pubDate>Sat, 22 Oct 2022 13:59:52 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,37 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>落单？反杀1000人！我卢俊义没开挂！《水浒传》P43</title>
+<description><![CDATA[以一敌千！卢俊义重新定义落单！
+辽国招安！宋江吴用该如何抉择？
+
+今天讲的是《水浒传》
+第八十四回「宋公明兵打蓟州城，卢俊义大战玉田县」
+第八十五回「宋公明夜度益津关，吴学究智取文安县」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[以一敌千！卢俊义重新定义落单！
+辽国招安！宋江吴用该如何抉择？
+
+今天讲的是《水浒传》
+第八十四回「宋公明兵打蓟州城，卢俊义大战玉田县」
+第八十五回「宋公明夜度益津关，吴学究智取文安县」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV1Q14y1j7AA</link>
+<guid isPermaLink="false">bili2podcast:ef9c03ba9e3e</guid>
+<pubDate>Sat, 22 Oct 2022 13:59:52 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-ef9c03ba9e3e/ef9c03ba9e3e.m4a" length="42462185" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>45:57</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>43</itunes:episode>
+</item>
 <item>
 <title>最后一次上梁山！开启征辽新篇章！《水浒传》P42</title>
 <description><![CDATA[好汉告别梁山！
