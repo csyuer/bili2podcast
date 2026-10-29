@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:03:37 GMT</lastBuildDate>
-<pubDate>Sat, 06 Aug 2022 12:10:00 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 09:08:09 GMT</lastBuildDate>
+<pubDate>Sat, 13 Aug 2022 12:16:45 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,39 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>全程挂机却成MVP？运气来了，挡都挡不住！《水浒传》P34</title>
+<description><![CDATA[梁山第一欧皇？
+挂机却成MVP！
+吴用上演计中计中计！
+
+今天讲的是《水浒传》
+第六十八回「宋公明夜打曾头市，卢俊义活捉史文恭」
+第六十九回「东平府误陷九纹龙，宋公明义释双枪将」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[梁山第一欧皇？
+挂机却成MVP！
+吴用上演计中计中计！
+
+今天讲的是《水浒传》
+第六十八回「宋公明夜打曾头市，卢俊义活捉史文恭」
+第六十九回「东平府误陷九纹龙，宋公明义释双枪将」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV11B4y167cc</link>
+<guid isPermaLink="false">bili2podcast:e794dde36d8e</guid>
+<pubDate>Sat, 13 Aug 2022 12:16:45 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-e794dde36d8e/e794dde36d8e.m4a" length="67493049" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>49:02</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>34</itunes:episode>
+</item>
 <item>
 <title>战吗？战啊！我一人单挑一座城！《水浒传》P33</title>
 <description><![CDATA[黑旋风李逵独自下山，竟是一人单挑一座城？
