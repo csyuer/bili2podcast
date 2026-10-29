@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 10:54:32 GMT</lastBuildDate>
-<pubDate>Sun, 27 Nov 2022 05:19:02 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 11:19:25 GMT</lastBuildDate>
+<pubDate>Sat, 03 Dec 2022 10:34:28 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,37 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>最后的战斗！对决方腊！忠义的代价是？《水浒传》P49</title>
+<description><![CDATA[攻破贼巢！
+征方腊的终极一战！
+
+今天讲的是《水浒传》「百回本」
+第九十八回「卢俊义大战昱岭关，宋公明智取清溪洞」
+第九十九回「鲁智深浙江坐化，宋公明衣锦还乡」
+
+本期点赞过10万
+将于两周后更新系列最后大结局
+敬请期待]]></description>
+<content:encoded><![CDATA[攻破贼巢！
+征方腊的终极一战！
+
+今天讲的是《水浒传》「百回本」
+第九十八回「卢俊义大战昱岭关，宋公明智取清溪洞」
+第九十九回「鲁智深浙江坐化，宋公明衣锦还乡」
+
+本期点赞过10万
+将于两周后更新系列最后大结局
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV1Ye411N7eg</link>
+<guid isPermaLink="false">bili2podcast:e1661f8086b6</guid>
+<pubDate>Sat, 03 Dec 2022 10:34:28 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-e1661f8086b6/e1661f8086b6.m4a" length="136537746" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>57:03</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>49</itunes:episode>
+</item>
 <item>
 <title>悲壮！武松断臂！百战英雄士，生平志未降！《水浒传》P48</title>
 <description><![CDATA[武松自断一臂？
