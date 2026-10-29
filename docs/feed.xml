@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 10:02:39 GMT</lastBuildDate>
-<pubDate>Sat, 19 Nov 2022 13:44:06 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 10:54:32 GMT</lastBuildDate>
+<pubDate>Sun, 27 Nov 2022 05:19:02 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,39 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>悲壮！武松断臂！百战英雄士，生平志未降！《水浒传》P48</title>
+<description><![CDATA[武松自断一臂？
+张顺借尸还魂？
+
+今天讲的是《水浒传》「百回本」
+第九十五回「张顺魂捉方天定，宋江智取宁海军」
+第九十六回「卢俊义分兵歙州道，宋公明大战乌龙岭」
+第九十七回「睦州城箭射邓元觉，乌龙岭神助宋公明」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[武松自断一臂？
+张顺借尸还魂？
+
+今天讲的是《水浒传》「百回本」
+第九十五回「张顺魂捉方天定，宋江智取宁海军」
+第九十六回「卢俊义分兵歙州道，宋公明大战乌龙岭」
+第九十七回「睦州城箭射邓元觉，乌龙岭神助宋公明」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV1m44y1X7da</link>
+<guid isPermaLink="false">bili2podcast:eb9071109c4f</guid>
+<pubDate>Sun, 27 Nov 2022 05:19:02 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-eb9071109c4f/eb9071109c4f.m4a" length="136891110" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>57:12</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>48</itunes:episode>
+</item>
 <item>
 <title>征方腊！梁山生离死别，张顺涌金门归神！《水浒传》P47</title>
 <description><![CDATA[征方腊开始！
