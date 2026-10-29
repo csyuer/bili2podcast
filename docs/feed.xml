@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:59:56 GMT</lastBuildDate>
-<pubDate>Sat, 12 Nov 2022 11:37:27 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 10:02:39 GMT</lastBuildDate>
+<pubDate>Sat, 19 Nov 2022 13:44:06 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,43 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>征方腊！梁山生离死别，张顺涌金门归神！《水浒传》P47</title>
+<description><![CDATA[征方腊开始！
+梁山迎生离死别！
+涌金门张顺归神！
+
+今天讲的是《水浒传》「百回本」
+第九十一回「张顺夜伏金山寺，宋江智取润州城」
+第九十二回「卢俊义分兵宣州道，宋公明大战毗陵郡」
+第九十三回「混江龙太湖小结义，宋公明苏州大会垓」
+第九十四回「宁海军宋江吊孝，涌金门张顺归神」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[征方腊开始！
+梁山迎生离死别！
+涌金门张顺归神！
+
+今天讲的是《水浒传》「百回本」
+第九十一回「张顺夜伏金山寺，宋江智取润州城」
+第九十二回「卢俊义分兵宣州道，宋公明大战毗陵郡」
+第九十三回「混江龙太湖小结义，宋公明苏州大会垓」
+第九十四回「宁海军宋江吊孝，涌金门张顺归神」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV14G4y147Gc</link>
+<guid isPermaLink="false">bili2podcast:e2aa20514ba3</guid>
+<pubDate>Sat, 19 Nov 2022 13:44:06 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-e2aa20514ba3/e2aa20514ba3.m4a" length="74111983" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>51:41</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>47</itunes:episode>
+</item>
 <item>
 <title>不为人知！水浒传多出来的20回，讲了什么？《水浒传》P46</title>
 <description><![CDATA[大结局前夕！
