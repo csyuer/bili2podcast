@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:17:20 GMT</lastBuildDate>
-<pubDate>Sat, 03 Sep 2022 14:17:48 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 09:20:01 GMT</lastBuildDate>
+<pubDate>Sat, 10 Sep 2022 11:15:00 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,37 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>燃起来了！梁山十面埋伏VS朝廷10万大军《水浒传》P38</title>
+<description><![CDATA[祝大家中秋快乐！
+
+最强阵法「九宫八卦阵」来了！
+
+今天是《水浒传》第七十六回「吴加亮布四斗五方旗，宋公明排九宫八卦阵」
+第七十七回「梁山泊十面埋伏，宋公明两赢童贯」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[祝大家中秋快乐！
+
+最强阵法「九宫八卦阵」来了！
+
+今天是《水浒传》第七十六回「吴加亮布四斗五方旗，宋公明排九宫八卦阵」
+第七十七回「梁山泊十面埋伏，宋公明两赢童贯」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV1MG41137oP</link>
+<guid isPermaLink="false">bili2podcast:e9391920a669</guid>
+<pubDate>Sat, 10 Sep 2022 11:15:00 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-e9391920a669/e9391920a669.m4a" length="106497614" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>44:30</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>38</itunes:episode>
+</item>
 <item>
 <title>招安？招甚鸟安！李逵灵魂拷问震惊梁山！《水浒传》P37</title>
 <description><![CDATA[「燕青打擂」小身材有大力量！
