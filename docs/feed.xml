@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:00:20 GMT</lastBuildDate>
-<pubDate>Sat, 30 Jul 2022 11:27:12 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 09:03:37 GMT</lastBuildDate>
+<pubDate>Sat, 06 Aug 2022 12:10:00 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,39 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>战吗？战啊！我一人单挑一座城！《水浒传》P33</title>
+<description><![CDATA[黑旋风李逵独自下山，竟是一人单挑一座城？
+卢员外重见天日，最强战力却只边缘OB？
+
+今天讲的是《水浒传》
+第六十六回「时迁火烧翠云楼，吴用智取大名府」
+第六十七回「宋江赏马步三军，关胜降水火二将」
+第六十八回「宋公明夜打曾头市，卢俊义活捉史文恭」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[黑旋风李逵独自下山，竟是一人单挑一座城？
+卢员外重见天日，最强战力却只边缘OB？
+
+今天讲的是《水浒传》
+第六十六回「时迁火烧翠云楼，吴用智取大名府」
+第六十七回「宋江赏马步三军，关胜降水火二将」
+第六十八回「宋公明夜打曾头市，卢俊义活捉史文恭」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV1fg411C7XS</link>
+<guid isPermaLink="false">bili2podcast:ea436283e358</guid>
+<pubDate>Sat, 06 Aug 2022 12:10:00 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-ea436283e358/ea436283e358.m4a" length="90868855" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>37:58</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>33</itunes:episode>
+</item>
 <item>
 <title>真·玄玄玄孙！还送赤兔马、青龙偃月刀！《水浒传》P32</title>
 <description><![CDATA[水浒三国梦幻联动！
