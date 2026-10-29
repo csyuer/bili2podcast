@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:39:47 GMT</lastBuildDate>
-<pubDate>Sat, 22 Oct 2022 13:59:52 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 09:54:25 GMT</lastBuildDate>
+<pubDate>Sat, 29 Oct 2022 13:51:47 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,39 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>内讧？卢俊义大骂宋江「黑矮无能」！《水浒传》P44</title>
+<description><![CDATA[梁山内讧？
+宋江卢俊义反目成仇，阵前对骂！
+
+今天讲的是《水浒传》
+第八十五回「宋公明夜度益津关，吴学究智取文安县」
+第八十六回「宋公明大战独鹿山，卢俊义兵陷青石峪」
+第八十七回「宋公明大战幽州，呼延灼力擒番将」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[梁山内讧？
+宋江卢俊义反目成仇，阵前对骂！
+
+今天讲的是《水浒传》
+第八十五回「宋公明夜度益津关，吴学究智取文安县」
+第八十六回「宋公明大战独鹿山，卢俊义兵陷青石峪」
+第八十七回「宋公明大战幽州，呼延灼力擒番将」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV1tW4y1j7u5</link>
+<guid isPermaLink="false">bili2podcast:e1ad4278cf52</guid>
+<pubDate>Sat, 29 Oct 2022 13:51:47 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-e1ad4278cf52/e1ad4278cf52.m4a" length="110460248" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>46:09</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>44</itunes:episode>
+</item>
 <item>
 <title>落单？反杀1000人！我卢俊义没开挂！《水浒传》P43</title>
 <description><![CDATA[以一敌千！卢俊义重新定义落单！
