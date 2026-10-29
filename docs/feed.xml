@@ -5,8 +5,8 @@
 <link>https://csyuer.github.io/bili2podcast/</link>
 <description>由 Bili2Podcast 生成的个人播客订阅。</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:20:01 GMT</lastBuildDate>
-<pubDate>Sat, 10 Sep 2022 11:15:00 GMT</pubDate>
+<lastBuildDate>Thu, 29 Oct 2026 09:22:20 GMT</lastBuildDate>
+<pubDate>Sat, 17 Sep 2022 12:26:48 GMT</pubDate>
 <generator>Bili2Podcast 1.0</generator>
 <ttl>60</ttl>
 <atom:link href="https://csyuer.github.io/bili2podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,37 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5"/>
 <image><url>https://csyuer.github.io/bili2podcast/cover.png?v=89e8a5b5</url><title>我的 B 站音频播客</title><link>https://csyuer.github.io/bili2podcast/</link></image>
+<item>
+<title>大聪明高俅上阵！梁山健美队VS北宋海军！《水浒传》P39</title>
+<description><![CDATA[高俅梁山大决战！
+亲率十三万大军，不忘带舞女！
+
+今天讲的是《水浒传》
+第七十八回「十节度议取梁山泊，宋公明一败高太尉」
+第七十九回「刘唐放火烧战船，宋江两败高太尉」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></description>
+<content:encoded><![CDATA[高俅梁山大决战！
+亲率十三万大军，不忘带舞女！
+
+今天讲的是《水浒传》
+第七十八回「十节度议取梁山泊，宋公明一败高太尉」
+第七十九回「刘唐放火烧战船，宋江两败高太尉」
+
+本期点赞过10万
+将于一周之内更新下一P
+敬请期待]]></content:encoded>
+<link>https://www.bilibili.com/video/BV1v8411t7YY</link>
+<guid isPermaLink="false">bili2podcast:e0caff2a9cfe</guid>
+<pubDate>Sat, 17 Sep 2022 12:26:48 GMT</pubDate>
+<enclosure url="https://github.com/csyuer/bili2podcast/releases/download/bili-e0caff2a9cfe/e0caff2a9cfe.m4a" length="59724950" type="audio/mp4"/>
+<itunes:author>木鱼水心</itunes:author>
+<itunes:duration>41:39</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>39</itunes:episode>
+</item>
 <item>
 <title>燃起来了！梁山十面埋伏VS朝廷10万大军《水浒传》P38</title>
 <description><![CDATA[祝大家中秋快乐！
